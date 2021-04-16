@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on building project to showcase my skills.
 - 🌱 I’m currently learning and buidling projects in React.js
--  👯 I’m looking to collaborate on Code for Australia on projects such as Seechange.
+-  👯 I’m looking to collaborate on Code for Australia on projects such as Seechange.(https://github.com/Amutha37/civic-makers-climate-change-visualization#about-the-project).
 - ⚡ Fun fact: I like to turn nothing into something. 
 <!-- Stats cards -->
 [![Amutha GitHub stats](https://github-readme-stats.vercel.app/api?username=Amutha37&theme=cobalt&show_icons=true)](https://github.com/Amutha37/github-readme-stats)

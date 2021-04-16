@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like to turn nothing into something. 
 <!-- Stats cards -->
 [![Amutha GitHub stats](https://github-readme-stats.vercel.app/api?username=Amutha37&theme=cobalt&show_icons=true)](https://github.com/Amutha37/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucitemple&layout=compact&theme=cobalt)](https://github.com/lucitemple/github-readme-stats)
+Stats cards are courtesy of @anuraghazra [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)

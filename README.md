@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m working on building project to showcase my skills.
 - 🌱 I’m learning and buidling projects in React.js
 -  👯 I have been collaborating with Code for Australia on projects such as [seechange](https://github.com/CodeforAustralia/seechange) .
-- ⚡ Fun fact: I like to turn nothing into something. 
+- ⚡ Fun fact: Converting unuseful into something that is useful. 
 <!-- Stats cards -->
 [![Amutha GitHub stats](https://github-readme-stats.vercel.app/api?username=Amutha37&theme=cobalt&show_icons=true)](https://github.com/Amutha37/github-readme-stats)
 

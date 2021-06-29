@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m working on building project to showcase my skills.
+- 🔭 I’m working on various projects to showcase my skills.
 - 🌱 I’m learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - Seechange.(https://github.com/Amutha37/civic-makers-climate-change-visualization#about-the-project).
 -->
-- 🔭 I’m working on building project to showcase my skills.
-- 🌱 I’m learning and buidling projects in React.js
+- 🔭 I’m working on various projects to showcase my skills using REACT libraries.
 -  👯 I have been collaborating with Code for Australia on projects such as [seechange](https://github.com/CodeforAustralia/seechange) .
 - ⚡ Fun fact: Converting unuseful into something that is useful. 
 <!-- Stats cards -->

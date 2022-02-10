@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - Seechange.(https://github.com/Amutha37/civic-makers-climate-change-visualization#about-the-project).
 -->
 - 🔭 I’m working on various projects to showcase my skills using REACT libraries.
--  👯 I have been collaborating with Code for Australia on projects such as [seechange](https://github.com/CodeforAustralia/seechange) and council emission calculator (https://council-emissions-calculator-spike-flax.vercel.app/).
+-  👯 I have been collaborating with Code for Australia on projects such as [seechange](https://github.com/CodeforAustralia/seechange) and council emission calculator (https://github.com/CodeforAustralia/council-emissions-calculator).
 - ⚡ Fun fact: Converting unuseful into something that is useful. 
 <!-- Stats cards -->
 [![Amutha GitHub stats](https://github-readme-stats.vercel.app/api?username=Amutha37&theme=cobalt&show_icons=true)](https://github.com/Amutha37/github-readme-stats)

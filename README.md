@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m working on various projects to showcase my skills using REACT libraries.
 -  👯 I have been collaborating with Code for Australia on projects such as [seechange](https://github.com/CodeforAustralia/seechange) and council carbon emission calculator (https://github.com/CodeforAustralia/council-emissions-calculator).
-- ⚡ Fun fact: Converting unuseful into something that will be  useful. 
+- ⚡ Fun fact: Converting unuseful into something useful. 
